@@ -81,5 +81,6 @@ Add a function lookUptokenIdToStarInfo, that looks up the stars using the Token 
 `cd app`
 `npm run dev`
 
-
+**Successful transaction hashed in the browser with MetaMask**
+![image](https://github.com/BrianHHough/Blockchain-Developer-Nanodegree-Udacity/blob/master/Documentation/Project-StarNotary/Successful%20Transaction.png)
 
