@@ -1,5 +1,5 @@
 import Web3 from "web3";
-import starNotaryArtifact from "../../build/contracts/StarNotary.json";
+import starNotaryArtifact from "../../client/src/contracts/StarNotary.json";
 
 const App = {
   web3: null,
